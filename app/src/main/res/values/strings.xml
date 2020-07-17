@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SokobanGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="game_name">Sokoban</string>
+    <string name="level_name">Level Name: test1</string>
+    <string name="score">Move Count: 0 | Number of targets: 1 | Count of crates on targets: 0</string>
+    <string name="reset">RESET LEVEL</string>
+    <string name="level_menu">Choose a level to play</string>
+    <string name="level1">LEVEL 1</string>
+    <string name="level2">LEVEL 2</string>
+    <string name="level3">LEVEL 3</string>
+    <string name="level4">LEVEL 4</string>
+    <string name="level5">LEVEL 5</string>
+    <string name="gotoMenu">RETURN TO MENU</string>
+</resources>
